@@ -1,4 +1,8 @@
 _repo: Old-Dad_48990
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48990-h/old_dad_cover.jpg
 creator:
   author:
     agent_name: Abbott, Eleanor Hallowell
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5556
     wikipedia: http://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48990#Old-Dad
 gutenberg_issued: '2015-05-18'
 gutenberg_type: Text
 identifiers:
